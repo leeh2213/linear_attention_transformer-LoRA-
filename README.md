@@ -1,7 +1,3 @@
-当然可以！以下是一个适用于你的 `LoRASelfAttention` Python 文件的 `README.md` 示例，假设这是一个模块化实现 LoRA（Low-Rank Adaptation）用于注意力机制的项目：
-
----
-
 # LoRASelfAttention
 
 一个轻量级模块，用于将 Low-Rank Adaptation (LoRA) 应用于 Transformer 中的注意力层。该实现基于 PyTorch，支持对 Query、Key、Value 以及 Output 投影分别注入 LoRA。
